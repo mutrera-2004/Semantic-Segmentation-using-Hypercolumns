@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Models / large files
+*.pth
+*.pt
+*.ckpt
+
+# Data
+data/
+datasets/
+
+# Papers
+*.pdf
